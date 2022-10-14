@@ -34,7 +34,7 @@ Built using Gatsby / React / Typescript / Styled Components / Contentful CMS / F
 
 ## Javascript Projects
 
-### 💼 MoreArt App 
+### 🎨 MoreArt App 
 Built using Javascript / SASS / MVC Design Pattern
 #### [Code](https://github.com/JaneMoroz/MoreArt) | [Live](https://github.com/JaneMoroz/MoreArt)
 
