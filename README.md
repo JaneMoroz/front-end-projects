@@ -28,11 +28,11 @@ Built using Gatsby / React / Styled Components / Contentful CMS / Framer Motion
 #### [Code](https://github.com/JaneMoroz/portfolio-v1) | [Live](https://jane-moroz-dev.netlify.app)
 
 ### ✈️🌋 Wonder Travel 
-Travel Agency Website (work in progress)
+Travel Agency Website (work in progress) </br></br>
 Built using Gatsby / React / Typescript / Styled Components / Contentful CMS / Framer Motion
 #### [Code](https://github.com/JaneMoroz/Wonder-Travel) | [Live](https://github.com/JaneMoroz/Wonder-Travel)
 
-## Javascript Projects
+## Vanilla Javascript Projects
 
 ### 🎨 MoreArt App 
 Built using Javascript / SASS / MVC Design Pattern
