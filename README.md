@@ -1,7 +1,9 @@
 # ✨ List of Front-end Projects
 
 ## General Info
-Those projects were built during my programming journey 💪
+These projects were built during my programming journey 💪
+</br>
+</br>
 
 ## React Projects
 
@@ -24,6 +26,7 @@ Built using React / Redux / Typescript / Styled Components
 ### 👟 E-commerce product page 
 Built using React / Mobx / Typescript / Sass
 #### [Code](https://github.com/JaneMoroz/frontend-mentor-e-commerce-product-page) | [Live](https://product-page-fe-mentor.netlify.app)
+</br>
 
 ## Gatsby Projects
 
@@ -35,12 +38,18 @@ Built using Gatsby / React / Styled Components / Contentful CMS / Framer Motion
 Travel Agency Website (work in progress) </br></br>
 Built using Gatsby / React / Typescript / Styled Components / Contentful CMS / Framer Motion
 #### [Code](https://github.com/JaneMoroz/Wonder-Travel) | [Live](https://github.com/JaneMoroz/Wonder-Travel)
+</br>
 
 ## Vanilla Javascript Projects
 
 ### 🎨 MoreArt App 
 Built using Javascript / SASS / MVC Design Pattern
 #### [Code](https://github.com/JaneMoroz/MoreArt) | [Live](https://github.com/JaneMoroz/MoreArt)
+
+### 🏃🏽‍♀️🧘🏼 Fitomapty App 
+Built using Javascript / OOP
+#### [Code](https://fito-mapty.netlify.app) | [Live](https://github.com/JaneMoroz/Fitomapty)
+</br>
 
 ## Static Projects
 #### Built using HTML5 / CSS and SASS or Bootstrap / Javascript
@@ -63,3 +72,4 @@ Climbing Club Website
 
 ### 🏕 Flexbox Practice
 #### [Code](https://flexbox-practice-natours.netlify.app) | [Live](https://flexbox-practice-natours.netlify.app)
+</br>
