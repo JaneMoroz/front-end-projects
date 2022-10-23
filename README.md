@@ -21,7 +21,7 @@ Built using React / Typescript / Styled Components
 Built using React / Redux / Typescript / Styled Components
 #### [Code](https://github.com/JaneMoroz/frontend-mentor-interactive-comments-section) | [Live](https://comments-fe-mentor.netlify.app)
 
-### ✏️ Interactive Comments Section 
+### 👟 E-commerce product page 
 Built using React / Mobx / Typescript / Sass
 #### [Code](https://github.com/JaneMoroz/frontend-mentor-e-commerce-product-page) | [Live](https://product-page-fe-mentor.netlify.app)
 
